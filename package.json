@@ -23,5 +23,6 @@
         "^/\\.netlify/functions": ""
       }
     }
-  }
+  },
+  "devDependencies": {}
 }
